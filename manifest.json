@@ -1,9 +1,9 @@
 {
   "name": "adironene/Lab8-Starter",
   "short_name": "Phoebe Tang",
-  "description": "",
-  "start_url": "",
-  "display": "fullscreen",
+  "description": "Recipes",
+  "start_url": "./",
+  "display": "standalone",
   "background_color": "",
   "theme_color": "",
   "icons": [
